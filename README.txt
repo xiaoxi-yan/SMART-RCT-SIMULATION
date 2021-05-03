@@ -36,7 +36,7 @@ loaded via a namespace (and not attached):
 
 
 README
-1. The following files contain only functions: "functions.R" contains data generation functions for SMART and RCT design, and a IPW mean calculation function for SMART AI.
+1. The following file contains only functions: "functions.R" contains data generation functions for SMART and RCT design, and a IPW mean calculation function for SMART AI.
 
 2. Require installation of packages stated above ("doParallel", "reshape2", "gridExtra", "ggplot2","dplyr","latex2exp","multcomp") if not installed. This could be done by uncommenting the indicated line in "functions.R". 
 
